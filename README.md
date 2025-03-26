@@ -1,21 +1,21 @@
-<h1 align="center">Merhaba 👋, Ben'm Cem Berk</h1>
-<h3 align="center">Ben Bir Web Developerım</h3>
+<h1 align="center">Merhaba 👋, Ben Cem Berk</h1>
+<h3 align="center">Yaptığım Projelerimi Burada Paylaşıyorum</h3>
 
 <p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="cemkaaa" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Şu an üzeinde çalıştığım projem [restoran pos app, market pos app](https://cemwp.com/)
+- 🔭 Şu an üzeinde çalıştığım projem [restoran pos app, market pos app](https://www.barkodkurulum.com)
 
-- 🌱 Öğrendiğim **Flutter**
+- 🌱 Öğrendiğim **Data Science**
 
-- 👨‍💻 Tüm projelerim [https://cemwp.com/](https://cemwp.com/)
+- 👨‍💻 Tüm projelerim [https://barkodkurulum.com/](https://www.barkodkurulum.com)
 
-- 📝 Bloglarımı yazdığım sitem [https://cemwp.com/](https://cemwp.com/)
+- 📝 Projelerimin Videolarını Yayınladığım Youtube Kanalım [youtube](https://www.youtube.com/channel/UCB-tmGn9Ui5lmyV-b6NnCLg)
 
 - 💬 Bana sor **react, php , laravel, jquery, node, sql, mysql...**
 
-- 📫 İletişim **ciracicemberk0@gmail.com**
+- 📫 İletişim **cemberkciraci2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
